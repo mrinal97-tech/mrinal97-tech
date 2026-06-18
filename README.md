@@ -2,7 +2,7 @@
 
 # Hi, I'm Mrinal Kadam 👋
 
-AI-Full-stack developer from Pune, India — building with MERN, Next.js, TypeScript & exploring AI/ML.
+AI-Full-stack developer — building with MERN, Next.js, TypeScript & exploring AI/ML.
 
 ---
 
