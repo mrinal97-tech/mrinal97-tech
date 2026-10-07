@@ -38,8 +38,8 @@ AI-Full-stack developer — building with MERN, Next.js, TypeScript & exploring 
 
 ---
 
-## 📊 GitHub Stats
-![Mrinal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrinal97-tech&show_icons=true&theme=dark)
+  ## 📊 GitHub Stats
+  ![Mrinal Kadam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinal97-tech&show_icons=true&theme=dark&include_all_commits=false&count_private=true)
 
 ---
 
