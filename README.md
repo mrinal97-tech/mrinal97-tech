@@ -2,7 +2,7 @@
 
 # Hi, I'm Mrinal Kadam 👋
 
-AI-Full-stack developer
+AI Integrations Engineer
 
 ---
 
