@@ -2,7 +2,7 @@
 
 # Hi, I'm Mrinal Kadam 👋
 
-AI Integrations Engineer
+AI Integration Engineer
 
 ---
 
