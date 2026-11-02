@@ -6,7 +6,7 @@ AI Integration Engineer
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -21,7 +21,7 @@ AI Integration Engineer
 
 ---
 
-## 🤖 AI / ML
+## AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
@@ -31,17 +31,17 @@ AI Integration Engineer
 
 ---
 
-## 🌱 Currently
+##  Currently
 - Impactful open source contribution
 - Building projects with Next.js
-- Exploring AI/ML integrations
+- AI/ML integrations
 
 ---
 
-  ## 📊 GitHub Stats
+  ## GitHub Stats
   ![Mrinal Kadam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinal97-tech&show_icons=true&theme=dark&include_all_commits=false&count_private=true)
 
 ---
 
-## 📫 Connect
+## Connect
 [![GitHub](https://img.shields.io/badge/GitHub-mrinal97--tech-181717?style=flat&logo=github)](https://github.com/mrinal97-tech)
