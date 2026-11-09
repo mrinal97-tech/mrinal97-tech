@@ -2,8 +2,9 @@
 
 # Hi, I'm Mrinal Kadam 👋
 
-#AI Integration Engineer
-focusing on integrating artificial intelligence into business operations, designing intelligent workflows, developing API-driven AI solutions, and connecting LLMs, data systems, and enterprise applications to improve operational efficiency and business processes.
+# AI Integration Engineer
+
+Focusing on integrating artificial intelligence into business operations, designing intelligent workflows, developing API-driven AI solutions, and connecting LLMs, data systems, and enterprise applications to improve operational efficiency and business processes.
 
 ---
 
