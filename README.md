@@ -4,7 +4,7 @@
 
 # AI Integration Engineer
 
-Focusing on integrating artificial intelligence into business operations, designing intelligent workflows, developing API-driven AI solutions, and connecting LLMs, data systems, and enterprise applications to improve operational efficiency and business processes.
+Working on integrating artificial intelligence into business operations, designing intelligent workflows, developing API-driven AI solutions, and connecting LLMs, data systems, and enterprise applications to improve operational efficiency and business processes.
 
 ---
 
@@ -33,15 +33,7 @@ Focusing on integrating artificial intelligence into business operations, design
 
 ---
 
-##  Currently
-- Impactful open source contribution
-- Building projects with Next.js
-- AI/ML integrations
 
----
-
-  ## GitHub Stats
-  ![Mrinal Kadam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrinal97-tech&show_icons=true&theme=dark&include_all_commits=false&count_private=true)
 
 ---
 
